@@ -5,6 +5,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## dependencies
+```bash
 "@ant-design/icons": "^4.7.0",
 "@craco/craco": "^6.4.3",
 "@testing-library/jest-dom": "^5.16.4",
@@ -25,6 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 "redux-thunk": "^2.4.1",
 "styled-components": "^5.3.5",
 "web-vitals": "^2.1.4"
+```
 
 ### `yarn install`
 安装所有依赖

@@ -1,8 +1,30 @@
 # 一个基于React开发的仿网易云音乐的单页面应用(SPA)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## dependencies
+"@ant-design/icons": "^4.7.0",
+"@craco/craco": "^6.4.3",
+"@testing-library/jest-dom": "^5.16.4",
+"@testing-library/react": "^12.1.4",
+"@testing-library/user-event": "^13.5.0",
+"antd": "^4.19.5",
+"axios": "^0.26.1",
+"immutable": "^4.0.0",
+"normalize.css": "^8.0.1",
+"prop-types": "^15.8.1",
+"react": "^18.0.0",
+"react-dom": "^18.0.0",
+"react-redux": "^8.0.0",
+"react-router-dom": "6",
+"react-scripts": "5.0.0",
+"redux": "^4.1.2",
+"redux-immutable": "^4.0.0",
+"redux-thunk": "^2.4.1",
+"styled-components": "^5.3.5",
+"web-vitals": "^2.1.4"
 
 ### `yarn install`
 安装所有依赖
